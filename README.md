@@ -36,3 +36,4 @@ A => toggle grayscale
 ![cool](https://github.com/swarmalator/mandelbrot-set/blob/master/images/cool.png)
 ![broad](https://github.com/swarmalator/mandelbrot-set/blob/master/images/broad.png)
 ![good](https://github.com/swarmalator/mandelbrot-set/blob/master/images/good.png)
+This project is licensed under the terms of the MIT license.
