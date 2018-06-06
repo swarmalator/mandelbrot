@@ -3,12 +3,6 @@
 Computes and displays the mandelbrot set given a specific resolution,
 max iterations, and color scheme.
 
-## Compile (Gradle)
-
-1. Download and extract anywhere
-2. Open a terminal window in the directory with the gradle.build script
-3. Type: gradle build run
-
 ## Instructions
 
 Select the resolution (in pixels per 1 unit on the graph) and the maximum number
